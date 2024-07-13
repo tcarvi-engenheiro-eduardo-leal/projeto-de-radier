@@ -1,2 +1,2 @@
 # radier
-Calculo de Radier e Tutoriais
+Tutoriais sobre o projeto do Radier.
